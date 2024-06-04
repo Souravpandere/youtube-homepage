@@ -1,0 +1,34 @@
+.profile{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    display: inline-block;
+    
+}
+.image{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+.desc{
+    display: inline-block;
+}
+.video{
+    display: inline-block;
+}
+.title{
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;    
+}
+.about{
+    color: grey;
+}
+.line-1{
+    margin-bottom: 0px;
+    margin-top: 8px;
+
+}
+.line-2{
+    margin-top: 0px;
+}
